@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "829836869182",
+    "firebase_url": "https://wallapaperappworkshop-47e73.firebaseio.com",
+    "project_id": "wallapaperappworkshop-47e73",
+    "storage_bucket": "wallapaperappworkshop-47e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829836869182:android:c3bc9dfbe4ffb708",
+        "android_client_info": {
+          "package_name": "com.buzydeveloper.wallapaperappworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829836869182-iasuar2o1nd4jioltsin22k4d5mbqpdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buzydeveloper.wallapaperappworkshop",
+            "certificate_hash": "52f360b763eb3f9b398dd953014b5fa724444b6e"
+          }
+        },
+        {
+          "client_id": "829836869182-052609b6j8dafpvgf2l6m2t4jmg3ot2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6XYlGhCBbt3y7OmF4N8QjCzWqrKAcoVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829836869182-052609b6j8dafpvgf2l6m2t4jmg3ot2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
