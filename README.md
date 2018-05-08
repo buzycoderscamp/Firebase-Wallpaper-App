@@ -19,6 +19,6 @@ Topics covered:
 
 For more information on: 
 
-    1. Firebase Storage visit: https://firebase.google.com/docs/storage/android/start
+   1. Firebase Storage visit: https://firebase.google.com/docs/storage/android/start
     
-    2. Firebase Real Time Database visit: https://firebase.google.com/docs/database/android/start/
+   2. Firebase Real Time Database visit: https://firebase.google.com/docs/database/android/start/
