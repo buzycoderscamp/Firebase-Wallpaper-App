@@ -15,3 +15,10 @@ Topics covered:
     5. Retreiving the pushed data from the database.
     
     6. Using Firebase-UI to populate the RecyclerView with the retreived data.
+
+
+For more information on: 
+
+    1. Firebase Storage visit: https://firebase.google.com/docs/storage/android/start
+    
+    2. Firebase Real Time Database visit: https://firebase.google.com/docs/database/android/start/
